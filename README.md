@@ -1,5 +1,5 @@
-### Hi there 👋
-👋 Olá! Sou Carlos Eduardo mas pode chamar de Kadu, um entusiasta do desenvolvimento frontend apaixonado por criar experiências web incríveis. Atualmente mergulhando fundo em tecnologias como HTML, CSS e JavaScript, e explorando frameworks como React e Vue.js.
+### Hi there I'm Carlos Eduardo👋
+👋 Sou um entusiasta do desenvolvimento frontend apaixonado por criar experiências web incríveis. Atualmente mergulhando fundo em tecnologias como HTML, CSS e JavaScript, e explorando frameworks como React e Vue.js.
 
 💻 Estou sempre procurando novos desafios e oportunidades para colaborar em projetos que envolvam design responsivo, acessibilidade e UX/UI aprimorados.
 
